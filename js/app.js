@@ -28,7 +28,8 @@
       { name: "Oreos", quantity: 5 },
       { name: "Orange Juice", quantity: 2 },
       { name: "Turkey Meat", quantity: 1},
-      { name: "Milk", quantity: 1 }
+      { name: "Milk", quantity: 1 },
+	  { name: "Mayo", quantity: 2 }
     ];
     var boughtItems = [];
 
